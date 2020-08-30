@@ -1,0 +1,14 @@
+{
+  "name": "distancer",
+  "version": "1.0.0",
+  "description": "j u s t s o c i a l d i s t a n c i n g",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ggolfz",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
